@@ -2,12 +2,13 @@
 
 A basic FramePay example.
 
-## Contribute
+## Setup
 
 ```shell
 yarn install
 yarn start
 ```
+Once the server starts navigate with your browser to `http://localhost:3000/checkout.html`
 
 ## Configuration
 
